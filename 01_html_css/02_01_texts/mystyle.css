@@ -1,0 +1,14 @@
+h1 {
+    background-color: turquoise;
+    color: pink;
+}
+
+em  { 
+    font-size: 20px;
+}
+
+.mycolor {
+    color: orange;
+    background-color: blue;
+    
+}
